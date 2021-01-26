@@ -14,6 +14,7 @@ git clone https://github.com/dannyzen/cf-zsh-autocomplete-plugin.git ${ZSH_CUSTO
 # git alias
 git config --global alias.st status 
 git config --global alias.ci 'commit'
+git config --global alias.co 'checkout'
 git config --global alias.dci 'duet-commit'
  
 brew install nvm

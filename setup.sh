@@ -25,6 +25,7 @@ echo ''
 echo ''
 
 echo '⚠️ install stuff manually'
+echo 'install macpass https://macpassapp.org/'
 echo 'install use together manually https://www.use-together.com/download'
 echo 'install postman https://www.postman.com/downloads/'
 echo 'install your preferred browsers manually'

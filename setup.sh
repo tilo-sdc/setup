@@ -14,6 +14,7 @@ git clone https://github.com/dannyzen/cf-zsh-autocomplete-plugin.git ${ZSH_CUSTO
 # git alias
 git config --global alias.st status 
 git config --global alias.ci 'commit'
+git config --global alias.dci 'duet-commit'
  
 brew install nvm
 brew install thefuck
@@ -30,3 +31,4 @@ echo 'install docker manually https://docs.docker.com/docker-for-mac/install/'
 echo 'install slack manually https://slack.com/intl/en-de/downloads/mac'
 echo 'install opensc for pki card https://github.com/frankmorgner/OpenSCToken/releases -> use .dmg file'
 echo 'install pki card reader driver https://www.acs.com.hk/en/driver/302/acr39u-smart-card-reader/'
+echo 'add your ~/.git-author file'

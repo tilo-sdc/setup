@@ -26,6 +26,7 @@ echo ''
 
 echo '⚠️ install stuff manually'
 echo 'install use together manually https://www.use-together.com/download'
+echo 'install postman https://www.postman.com/downloads/'
 echo 'install your preferred browsers manually'
 echo 'install docker manually https://docs.docker.com/docker-for-mac/install/'
 echo 'install slack manually https://slack.com/intl/en-de/downloads/mac'
